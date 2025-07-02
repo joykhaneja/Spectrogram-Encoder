@@ -2,6 +2,8 @@
 
 Convert any image into an audio file where the original image can be seen inside a **spectrogram** of the audio. Great for audio steganography, sonification art, and experimental signal processing.
 
+![Example](example.png)
+
 ## Features
 
 - Interactive command-line tool (no flags needed)
