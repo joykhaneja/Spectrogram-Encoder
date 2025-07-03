@@ -13,7 +13,13 @@ Convert any image into an audio file where the original image can be seen inside
 - Visualizes spectrogram automatically
 
 ## Requirements
-
+```
+numpy
+pillow
+soundfile
+matplotlib
+scipy
+```
 ```bash
 pip install -r requirements.txt
 ```
