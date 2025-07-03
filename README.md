@@ -20,7 +20,12 @@ soundfile
 matplotlib
 scipy
 ```
+
+## Installation
+
 ```bash
+git clone https://github.com/joykhaneja/Spectogram-Encoder.git
+cd Spectogram-Encoder
 pip install -r requirements.txt
 ```
 
