@@ -12,6 +12,9 @@ Convert any image into an audio file where the original image can be seen inside
 - Inverts image if needed
 - Visualizes spectrogram automatically
 
+![image](https://github.com/user-attachments/assets/61ede62c-e8a5-4847-9afd-b97552d28b09)
+
+
 ## Requirements
 ```
 numpy
